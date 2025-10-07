@@ -1,29 +1,29 @@
 # FarmData
 
-O **FarmData** é um projeto de Engenharia de Dados com foco em simular e gerenciar dados agrícolas, desde o plantio até a colheita.  
-A proposta é demonstrar, de forma prática, como construir uma arquitetura de dados moderna — da ingestão ao consumo — aplicando boas práticas de engenharia.
+O **FarmData** Ã© um projeto de Engenharia de Dados com foco em simular e gerenciar dados agrÃ­colas, desde o plantio atÃ© a colheita.  
+A proposta Ã© demonstrar, de forma prÃ¡tica, como construir uma arquitetura de dados moderna â€” da ingestÃ£o ao consumo â€” aplicando boas prÃ¡ticas de engenharia.
 
 ---
 
 ## Objetivo
 
-O objetivo do FarmData é coletar, armazenar e analisar dados relacionados a fazendas, culturas e produção agrícola.  
-Através deste projeto, serão aplicados conceitos como:
+O objetivo do FarmData Ã© coletar, armazenar e analisar dados relacionados a fazendas, culturas e produÃ§Ã£o agrÃ­cola.  
+AtravÃ©s deste projeto, serÃ£o aplicados conceitos como:
 
-- Estruturação de dados (brutos, tratados e analíticos)
-- Transformações com SQL e Python
+- EstruturaÃ§Ã£o de dados (brutos, tratados e analÃ­ticos)
+- TransformaÃ§Ãµes com SQL e Python
 - Pipelines automatizados (CI/CD)
-- Integração com ferramentas em nuvem
+- IntegraÃ§Ã£o com ferramentas em nuvem
 
 ---
 
 ## Conceitos aplicados
 
-Durante o desenvolvimento deste projeto, serão exploradas tecnologias e boas práticas como:
+Durante o desenvolvimento deste projeto, serÃ£o exploradas tecnologias e boas prÃ¡ticas como:
 
-- **Git e GitHub** (versionamento e colaboração)
+- **Git e GitHub** (versionamento e colaboraÃ§Ã£o)
 - **SQL** (consultas e modelagem relacional)
-- **Python** (ETL e manipulação de dados)
+- **Python** (ETL e manipulaÃ§Ã£o de dados)
 - **Pipelines CI/CD**
 - **Data Lake e Delta Lake**
 - **Spark / Databricks / Azure Synapse**
@@ -33,31 +33,36 @@ Durante o desenvolvimento deste projeto, serão exploradas tecnologias e boas prá
 ## Estrutura do Projeto
 
 FarmData/
-¦
-+-- .github/workflows   # Pipelines de automação (CI/CD)
+Â¦
++-- .github/workflows   # Pipelines de automaÃ§Ã£o (CI/CD)
 +-- data/raw            # Dados brutos (simulados ou reais)
-+-- docs                # Documentação do projeto
-+-- notebooks           # Notebooks de análise exploratória
-+-- scripts/sim         # Scripts de simulação de dados
++-- docs                # DocumentaÃ§Ã£o do projeto
++-- notebooks           # Notebooks de anÃ¡lise exploratÃ³ria
++-- scripts/sim         # Scripts de simulaÃ§Ã£o de dados
 +-- sql                 # Consultas e scripts SQL
-+-- requirements.txt    # Dependências do projeto
-+-- README.md           # Descrição do projeto
++-- requirements.txt    # DependÃªncias do projeto
++-- README.md           # DescriÃ§Ã£o do projeto
 
 ---
 
 ## Progresso do Projeto
 
-| Fase | Descrição | Status |
+| Fase | DescriÃ§Ã£o | Status |
 |------|------------|--------|
-| 1 | Estruturação inicial e repositório | ? Concluído |
-| 2 | Simulação de dados e carga inicial | ? Em andamento |
+| 1 | EstruturaÃ§Ã£o inicial e repositÃ³rio | ? ConcluÃ­do |
+| 2 | SimulaÃ§Ã£o de dados e carga inicial | ? Em andamento |
 | 3 | Modelagem e queries SQL | ? A iniciar |
 | 4 | Pipeline automatizado | ? A iniciar |
-| 5 | Publicação e visualização | ? A iniciar |
+| 5 | PublicaÃ§Ã£o e visualizaÃ§Ã£o | ? A iniciar |
 
 ---
 
 ## Autor
 
 **Marcio Bastos**  
-Engenheiro de Dados em formação | Foco em projetos práticos e arquitetura de dados moderna.
+ğŸš€ Engenheiro de Dados em formaÃ§Ã£o
+ğŸ§  Estudando Python, Pandas, SQL, ETL e modelagem de dados
+ğŸ“ˆ Criando projetos prÃ¡ticos como FarmData (limpeza, integraÃ§Ã£o e anÃ¡lise de dados)
+ğŸ“ BrasÃ­lia, Brasil
+ğŸ’¡ Buscando estÃ¡gio ou oportunidade como Data Engineer
+
